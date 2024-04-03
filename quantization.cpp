@@ -1,4 +1,5 @@
 // Função percorre toda a matriz da imagem (imagem em escala de cinza) e divide os valores dos pixels por 2.
+// Certifique-se de alterar o caminho da imagem na linha 26.
 
 #include <opencv2/opencv.hpp>
 #include <iostream>
